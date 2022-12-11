@@ -1,0 +1,19 @@
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-DBD5V1.desktop
+message/rfc822=userapp-Thunderbird-DBD5V1.desktop
+x-scheme-handler/mid=userapp-Thunderbird-DBD5V1.desktop
+x-scheme-handler/webcal=userapp-Thunderbird-TAS5V1.desktop
+text/calendar=userapp-Thunderbird-TAS5V1.desktop
+application/x-extension-ics=userapp-Thunderbird-TAS5V1.desktop
+x-scheme-handler/webcals=userapp-Thunderbird-TAS5V1.desktop
+x-scheme-handler/discord-389176180877688832=discord-389176180877688832.desktop
+application/pdf=org.pwmt.zathura.desktop
+text/plain=emacs.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-DBD5V1.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-DBD5V1.desktop;
+x-scheme-handler/webcal=userapp-Thunderbird-TAS5V1.desktop;
+x-scheme-handler/webcals=userapp-Thunderbird-TAS5V1.desktop;
+application/pdf=org.pwmt.zathura.desktop;
+text/plain=emacs.desktop;
